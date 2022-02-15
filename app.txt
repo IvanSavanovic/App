@@ -1,0 +1,27 @@
+Home screen can be by default login but login has redirect to registration screen
+
+EVERY INPUT FIELD HAS TO HAVE INPUT VALIDATED
+EVERY SCREEN HAS TO HAVE A WAY OF SHOWING ERRORS
+
+Register screen 
+username
+password
+email 
+
+Login screen
+username 
+password
+
+Conversation list screen
+list of conversations
+
+pressing on conversation in a list opens: 
+conversation screen (specific conversation)
+message list:
+	contains list of messages with users name/avatar 
+new message input field
+send message button -> adds message to a message list
+
+
+Logout button in header...
+
